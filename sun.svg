@@ -1,0 +1,128 @@
+/* Sun */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 38.28%;
+right: 38.28%;
+top: 38.28%;
+bottom: 38.28%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 28.12%;
+bottom: 67.97%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.53%;
+right: 62.71%;
+top: 34.53%;
+bottom: 62.71%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.12%;
+right: 67.97%;
+top: 50%;
+bottom: 50%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.53%;
+right: 62.71%;
+top: 62.71%;
+bottom: 34.53%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 67.97%;
+bottom: 28.12%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.71%;
+right: 34.53%;
+top: 62.71%;
+bottom: 34.53%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.97%;
+right: 28.12%;
+top: 50%;
+bottom: 50%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.71%;
+right: 34.53%;
+top: 34.53%;
+bottom: 62.71%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;

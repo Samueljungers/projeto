@@ -1,0 +1,81 @@
+/* MoonStars */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 67.19%;
+right: 32.81%;
+top: 37.5%;
+bottom: 53.12%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 28.12%;
+top: 42.19%;
+bottom: 57.81%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.81%;
+right: 42.19%;
+top: 29.69%;
+bottom: 64.06%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.69%;
+right: 39.06%;
+top: 32.81%;
+bottom: 67.19%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.04%;
+right: 32.68%;
+top: 32.68%;
+bottom: 32.04%;
+
+/* text-color-light-mode */
+border: 1px solid #000000;
